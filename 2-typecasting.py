@@ -7,6 +7,6 @@ age = int(age)
 age += 4
 print(age)
 
-sgpa = int(sgpa)
+sgpa = float(sgpa)
 print(sgpa)
 
